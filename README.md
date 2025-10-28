@@ -1,6 +1,6 @@
 <!-- Banner with video -->
 <p align="center">
-  <img src="Banner8.gif" alt="Project demo" width="800" height="300" />
+  <img src="/assets/banner.gif" alt="Project demo" width="800" height="300" />
 </p>
 
 ---

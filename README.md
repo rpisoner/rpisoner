@@ -47,7 +47,7 @@ Throughout my journey, I’ve led **multiple teams** across **various initiative
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpisoner&show_icons=true&locale=en&layout=compact" alt="rpisoner" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpisoner&show_icons=true&locale=en&layout=donut" alt="rpisoner" /></p>
 
 ---
 
